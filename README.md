@@ -1,5 +1,5 @@
 # Personal Container
-A website that allows the user to keep track of items in a container (e.g. fridge, garden, room, etc.)
+A website that allows the user to keep track of items in a container (e.g. fridge, garden, room, bookshelf, etc.)
 The user can add, remove, view all items, or search for items.
 
 Possible extra features:
